@@ -1,0 +1,22 @@
+.angular-image-slider
+{
+    align-content: center;
+    top: 70%;
+}
+
+.form-control
+{
+    top: 60%;
+    height: 10cm;
+    background-color:blanchedalmond;
+    text-align:center;
+
+    
+}
+
+textarea
+{
+    border-radius: 25px;
+    padding: 20px;
+
+}

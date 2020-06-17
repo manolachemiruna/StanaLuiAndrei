@@ -1,0 +1,33 @@
+.container
+{
+    position: absolute;
+    top:20%;
+    left: 30%;
+}
+
+input
+{
+    width: 50%;
+}
+.alert
+{
+    width: 50%;
+    align-content: center;
+}
+label{
+    color:black;
+    font-style:bold;
+}
+p
+{
+    width: 50%;
+    position: absolute;
+    left: 0%;
+    top: 130%;
+}
+h4{
+    width: 50%;
+    position: absolute;
+    left: 5%;
+    top: 120%;
+}
